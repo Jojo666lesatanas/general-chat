@@ -11,12 +11,13 @@ body {
     font-size: 14px;
     border: 1px solid #fb00ff;
     border-radius: 5px;
+    text-anchor: rgb(252, 90, 255);
 }
 
 #chatSend {
     padding: 10px 20px;
     background-color: #ff00bf;
-    color: rgb(252, 90, 255);
+    color: rgb(255, 255, 255);
     border: none;
     cursor: pointer;
     border-radius: 5px;
